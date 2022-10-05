@@ -73,10 +73,4 @@ def labo1():
                 print() # se imprime una línea en blanco para clarificar la salida por pantalla
                 
         generar_menu(opciones, '2')
-       
-            
-
-    
-    
-
 labo1()    
