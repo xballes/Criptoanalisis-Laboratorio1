@@ -34,13 +34,22 @@ def labo1():
             modificacion=mensaje.replace(letra,sustituta)
             print(modificacion)
             
+        def accion2():
+            print('Introduce todas los caracteres ya ajustados:')
+            frec=input()
+            #print(mensaje)
+            ajustado=texto.maketrans(Alfabeto,frec)
+            ajustado=texto.translate(ajustado)
+            print(ajustado)
+            
 
         def salir():
             print('Has salido')
             
         opciones = {
-        '1': ('Modificar texto', accion1),
-        '2': ('Salir', salir)
+        '1': ('Reemplazar caracteres', accion1),
+        '2':('Reemplazar todos los caracteres',accion2),
+        '3': ('Salir', salir)
         }
         
         def mostrar_menu(opciones):
