@@ -13,4 +13,4 @@ Opción:
 
 La primera permite sustituir uno por uno los caracteres que se introduzcan en la terminal.(Esto sería más óptimo en caso de que haya que realizar pocos cambios.)
 
-La segunda permite sustituir una lista de caracteres que se introduzcan en la terminal(Esto sería más óptimo si hay que realizar muchas sustituciones y se conoce la solución).
+La segunda permite sustituir una lista de caracteres que se introduzcan en la terminal(Esto sería más óptimo si hay que realizar muchas sustituciones y se conoce la solución).En este caso el reemplazo sería:DKIPAXJTONRZHSÑFMBCQLGYWEVU
