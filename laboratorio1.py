@@ -1,4 +1,3 @@
-
 def labo1():
         from collections import Counter
         print("Introducir texto a descifrar")
